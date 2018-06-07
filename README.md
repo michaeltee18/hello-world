@@ -1,2 +1,3 @@
 # hello-world
-Intro to github
+
+Creating the test project so that I can begin training.
